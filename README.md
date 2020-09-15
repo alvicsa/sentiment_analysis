@@ -44,6 +44,8 @@ conda install --file requirements.txt
 
 -- **.gitignore** file contains a list of superfluous files and can be ignore
 
+-- **images** folder contains images used in the main notebook that explain important considerations when assessing accuracy of binary classification model
+
 
 [Back To The Top](#read-me-template)
 
